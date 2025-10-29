@@ -136,22 +136,11 @@ modifiables pour une expérience personnalisée.
 
 
 ======================================================================================
-                      	     CONTRIBUTION INDIVIDUELLE
+                          CONTRIBUTION INDIVIDUELLE
 ======================================================================================
 
-		      Le travail a été réalisé par COMBO EL-fahad 
+		          Le travail a été réalisé par COMBO EL-fahad 
 
 ======================================================================================
-                             	    POUR FINIR
-======================================================================================
-
-
-Merci pour vos conseils et votre soutien tout au long de ce semestre, Ce projet 
-reflète mes efforts pour mettre en pratique les connaissances acquises et démontrer 
-ma créativité. notamment dans le cadre de ce projet. 
-
-	   je choisis d'exploiter cette place pour vous souhaitez 
-
-======================================================================================
-			   	BONNE ANNEE 2025 !!
+                             	    
 ======================================================================================
