@@ -67,7 +67,7 @@ game-trio/
 
 ## 👤 Auteur
 
-Projet réalisé par **COMBO El-Fahad** – Université de Caen (2024).  
+Projet réalisé par **COMBO El-Fahad** – Université de Caen (2023).  
 Contact : `el-fahad.combo@etu.unicaen.fr`
 
 ---
