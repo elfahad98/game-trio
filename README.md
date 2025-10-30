@@ -43,8 +43,8 @@ game-trio/
 │   └── Element.py           # Classe de base pour les éléments
 │
 ├── docs/
-│   └── README.md/         
-│
+│   ├──  README.md        
+│   └──  screenshots/
 ├── .gitignore               # Fichiers ignorés (Python)
 ├── LICENSE                  # Licence MIT
 └── README.md                # Présentation du projet
