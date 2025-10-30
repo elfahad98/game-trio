@@ -51,6 +51,18 @@ game-trio/
 ```
 
 
+## Visualisations (aperçu)
+
+| Capture | Commentaire |
+|---|---|
+| ![Menu — sélection des jeux](docs/screenshots/app_accueil.png) | **Menu principal** : lancement de Conway, Turmites ou Snake. |
+| ![Conway — évolution](docs/screenshots/Conways.png) | **Jeu de la Vie** : grille en évolution avec **compteur d’itérations**. |
+| ![Snake — pause](docs/screenshots/snake_pause.png) | **Snake en pause** : affichage du **score** + contrôles (Pause/Reset). |
+| ![Snake — Game Over](docs/screenshots/snake_game_over.png) | **Snake** : écran **Game Over** avec **score final**. |
+| ![Turmites — 1 agent](docs/screenshots/turmites.png) | **Turmite unique** : trajectoire et **motifs colorés** générés par règles locales. |
+| ![Turmites — multi-agents](docs/screenshots/multi4.png) | **Turmites (multi)** : plusieurs agents → **motifs émergents** variés. |
+
+
 ---
 
 ## 👤 Auteur
